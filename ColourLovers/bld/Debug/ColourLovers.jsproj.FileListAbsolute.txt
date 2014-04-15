@@ -1,0 +1,15 @@
+c:\presentatie\ColourLovers\ColourLovers\bin\Debug\ReverseMap\resources.pri
+c:\presentatie\ColourLovers\ColourLovers\bin\Debug\AppxManifest.xml
+c:\presentatie\ColourLovers\ColourLovers\bin\Debug\ColourLovers.build.appxrecipe
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\priconfig.xml
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\priconfig.xml.intermediate
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\layout.resfiles
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\layout.resfiles.intermediate
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\resources.resfiles
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\resources.resfiles.intermediate
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\pri.resfiles
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\pri.resfiles.intermediate
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\qualifiers.txt
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\qualifiers.txt.intermediate
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\presentatie\ColourLovers\ColourLovers\bld\Debug\ProjectArchitectures.txt

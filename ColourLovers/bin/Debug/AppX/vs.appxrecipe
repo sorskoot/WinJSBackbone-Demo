@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NBK0983</Machine>
+    <WindowsUser>Timmy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1fdeaec7-76ec-47a3-83f9-2698bfbb6c41</PackageIdentityName>
+    <IntermediateOutputPath>c:\presentatie\ColourLovers\ColourLovers\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FCB791F63762648867FD9C41851FA3369A5F545904CD30E285DD6038D1CDE62D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1fdeaec7-76ec-47a3-83f9-2698bfbb6c41_1.0.0.0_neutral__vpb0pwqcqtks6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1fdeaec7-76ec-47a3-83f9-2698bfbb6c41_vpb0pwqcqtks6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1fdeaec7-76ec-47a3-83f9-2698bfbb6c41</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Timmy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\presentatie\ColourLovers\ColourLovers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T14:36:13.495</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\bower_components\backbone\backbone.js">
+      <PackagePath>app\bower_components\backbone\backbone.js</PackagePath>
+      <Modified>2014-04-15T13:44:19.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\bower_components\jquery\dist\jquery.js">
+      <PackagePath>app\bower_components\jquery\dist\jquery.js</PackagePath>
+      <Modified>2014-04-15T13:44:19.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\bower_components\mustache\mustache.js">
+      <PackagePath>app\bower_components\mustache\mustache.js</PackagePath>
+      <Modified>2014-04-15T13:48:58.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\bower_components\requirejs\require.js">
+      <PackagePath>app\bower_components\requirejs\require.js</PackagePath>
+      <Modified>2014-04-15T13:44:19.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\bower_components\underscore\underscore.js">
+      <PackagePath>app\bower_components\underscore\underscore.js</PackagePath>
+      <Modified>2014-04-15T13:44:19.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\bootstrap.js">
+      <PackagePath>app\scripts\bootstrap.js</PackagePath>
+      <Modified>2014-04-08T16:27:45.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\collections\patterns.js">
+      <PackagePath>app\scripts\collections\patterns.js</PackagePath>
+      <Modified>2014-04-15T14:46:38.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\Config.js">
+      <PackagePath>app\scripts\Config.js</PackagePath>
+      <Modified>2014-04-08T08:02:13.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\default.js">
+      <PackagePath>app\scripts\default.js</PackagePath>
+      <Modified>2014-04-08T16:11:47.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\models\pattern.js">
+      <PackagePath>app\scripts\models\pattern.js</PackagePath>
+      <Modified>2014-04-08T16:46:36.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\templates.js">
+      <PackagePath>app\scripts\templates.js</PackagePath>
+      <Modified>2014-04-15T14:44:09.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\views\mainview.js">
+      <PackagePath>app\scripts\views\mainview.js</PackagePath>
+      <Modified>2014-04-15T14:45:07.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\app\scripts\templates\mainview-template.mustache">
+      <PackagePath>app\scripts\templates\mainview-template.mustache</PackagePath>
+      <Modified>2014-04-15T14:44:09.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-04-15T14:36:39.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T14:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T14:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T14:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T14:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-04-15T14:37:09.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\presentatie\ColourLovers\ColourLovers\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-15T14:36:13.385</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
